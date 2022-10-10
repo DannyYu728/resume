@@ -1,0 +1,34 @@
+{
+  "name": "Danny Yu",
+  "website": "https://dannyyu728.github.io/",
+  "linkedin": "https://www.linkedin.com/in/danny-yu-96a060208",
+  "github": "DannyYu728",
+  "resume": "TBA",
+  "email": "dannyyu728@gmail.com",
+  "proficientTechnologies": [
+      "Javascript",
+      "React",
+      "Vue",
+      "Node",
+      "Express",
+      "Mongo",
+      "Mongodb",
+      "PostgreSQL",
+      "Python",
+      "Django",
+      "Wordpress",
+      "Drupal",
+      "SQL",
+      "HTML",
+      "CSS",
+      "JSON",
+      "Typescript",
+      "Jquery"
+  ],
+  "otherSkills": [
+      "snowboarding",
+      "rock climbing",
+      "welding",
+      "commerical insurance underwriting"
+  ]
+}
